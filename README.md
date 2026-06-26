@@ -36,7 +36,6 @@ class BishwashSingh:
     backend = [
         "Django",
         "Django REST Framework",
-        "Node.js"
     ]
 
     databases = [
