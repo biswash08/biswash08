@@ -1,105 +1,196 @@
-👋 Hello, I'm Bishwash Singh
-<div align="center">
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Expert;REST+API+Architect;Clean+Code+Advocate
+# <h1 align="center">Hi 👋, I'm Bishwash Singh</h1>
 
-</div><p align="center"> <img src="https://komarev.com/ghpvc/?username=biswash08&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/biswash08?label=Followers&style=social" alt="Followers"/> <img src="https://img.shields.io/github/stars/biswash08?label=Stars&style=social" alt="Stars"/> </p>
-🚀 About Me
-I'm a Backend Developer who crafts scalable APIs and builds robust systems. I specialize in:
+<h3 align="center">
+🚀 Backend Developer • Django Expert • REST API Architect • Clean Code Advocate
+</h3>
 
-🐍 Django & Django REST Framework
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+Django+REST+Framework;REST+API+Architect;Scalable+System+Designer;Docker+%7C+PostgreSQL+%7C+Next.js;Always+Learning+New+Technologies" />
+</p>
 
-🏗️ System Architecture & Scalable Design
+<p align="center">
 
-📡 REST API Development
+<img src="https://komarev.com/ghpvc/?username=biswash08&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
 
-🗄️ PostgreSQL, MySQL, SQLite
+<img src="https://img.shields.io/github/followers/biswash08?style=for-the-badge&logo=github"/>
 
-🔐 Authentication & Security
+<img src="https://img.shields.io/github/stars/biswash08?style=for-the-badge"/>
 
-📦 Docker & Containerization
+</p>
 
-⚛️ Next.js & TypeScript
+---
 
-"I build robust backend systems, design clean REST APIs, and create scalable architecture that powers real-world applications."
+# 💫 About Me
 
-🛠️ Tech Stack
-Backend
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+```python
+class BishwashSingh:
 
-Database
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+    role = "Backend Developer"
 
-Frontend
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+    languages = [
+        "Python",
+        "TypeScript",
+        "JavaScript"
+    ]
 
-DevOps & Tools
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+    backend = [
+        "Django",
+        "Django REST Framework",
+        "Node.js"
+    ]
 
-💪 Core Competencies
-Backend Development
-Django & Django REST Framework
+    databases = [
+        "PostgreSQL",
+        "MySQL",
+        "SQLite"
+    ]
 
-REST API Design & Implementation
+    devops = [
+        "Docker",
+        "Linux",
+        "AWS"
+    ]
 
-Authentication & Authorization (JWT, OAuth2)
+    architecture = [
+        "REST APIs",
+        "Authentication",
+        "System Design",
+        "Scalable Backend"
+    ]
 
-Database Design & Optimization
+    motto = "Write clean code. Build scalable systems."
+```
 
-System Architecture
-Microservices Design
+---
 
-Scalable System Architecture
+# 🛠 Tech Stack
 
-Caching Strategies (Redis)
+### Backend
 
-Message Queues (Celery)
+<p>
 
-DevOps & Deployment
-Docker Containerization
+<img src="https://skillicons.dev/icons?i=python,django,nodejs"/>
 
-CI/CD Pipelines
+</p>
 
-Cloud Deployment (AWS)
+### Frontend
 
-Linux Server Management
+<p>
 
-Additional Skills
-Next.js Development
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind"/>
 
-TypeScript
+</p>
 
-Tailwind CSS
+### Database
 
-Git & Version Control
+<p>
 
-📫 Let's Connect
-<div align="center">
-https://img.shields.io/badge/Portfolio-bishwashsingh.com.np-000000?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/LinkedIn-Bishwash%2520Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/X-@Biswash08-000000?style=for-the-badge&logo=x&logoColor=white
-https://img.shields.io/badge/GitHub-biswash08-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-bishwashsingh045%2540gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Facebook-Bishwash%2520Singh-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/Instagram-@biswash0808-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
-</div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=biswash08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswash08&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/></div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswash08&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="45%"/></div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=biswash08&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/></div>
-<div align="center">
-⚡ "Code. Build. Innovate."
-https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer
+</p>
 
-</div>
+### DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+# ⚡ Core Skills
+
+✔ REST API Development
+
+✔ Django REST Framework
+
+✔ Authentication (JWT)
+
+✔ PostgreSQL Optimization
+
+✔ Docker Deployment
+
+✔ Clean Architecture
+
+✔ Scalable Backend
+
+✔ API Security
+
+✔ TypeScript
+
+✔ Next.js
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=biswash08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biswash08&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswash08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswash08&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=biswash08&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://bishwashsingh.com.np">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/biswash08">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/Biswash08">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:bishwashsingh045@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7F5AF0&section=footer"/>
+
+</p>
